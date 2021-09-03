@@ -1,0 +1,13 @@
+.bg{
+    background: no-repeat center center;
+    &-cover{
+        background-size: cover;
+    }
+    &-contain{
+        background-size: contain;
+    }
+    &-projectlist{
+        background: $light;
+    }
+
+}
